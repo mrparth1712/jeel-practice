@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.header-inner{
+    display: flex;
+}
+.service{
+    display: flex;
+}
+.inner-items {
+    width: 100%;
+    height: 50%;
+}
+img{
+    width: 100%;
+    height: 50%;
+}
